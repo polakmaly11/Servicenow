@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_renderer">
+    <sys_aw_renderer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_renderer display_value="sn-knowledge-discussion-wrapper">72799ecde4d1ac5180318bc017e3d71f</custom_renderer>
+        <custom_renderer_tag>sn-knowledge-discussion-wrapper</custom_renderer_tag>
+        <macroponent/>
+        <module_flag>false</module_flag>
+        <renderer_type/>
+        <sys_class_name>sys_aw_renderer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 12:22:02</sys_created_on>
+        <sys_id>d707f822287c10107f44eef09f3dbd32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LoanerReqTest" source="x_cdltd_loanerreqt">7f163022287c10107f44eef09f3dbdd8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LoanerReqTest">7f163022287c10107f44eef09f3dbdd8</sys_scope>
+        <sys_update_name>sys_aw_renderer_d707f822287c10107f44eef09f3dbd32</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 12:22:02</sys_updated_on>
+        <table>kb_social_qa_answer</table>
+        <type_ext display_value="record">56a1aaa10f513300bb57f4a1ff767ede</type_ext>
+        <workspace_config display_value="LoanerReqTest">aa077822287c10107f44eef09f3dbd99</workspace_config>
+        <workspace_module/>
+    </sys_aw_renderer>
+</record_update>

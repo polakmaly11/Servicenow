@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="LoanerReqTest Loaner Request">05f67822287c10107f44eef09f3dbd3d</data_item>
+        <dependency_fields>author,number,title</dependency_fields>
+        <item_view_json>{"Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Children":[{"Distribution":"Equal","Children":[{"Distribution":"Auto","Children":[{"CornerRadius":2,"CellId":"author","MaxLines":1,"studio_template_field_id":"E1","Text":"","TextColor":"#293e40","BackgroundColor":"#f1f1f1","Font":{"Size":13,"Weight":"semibold"},"TextAlignment":"Center","Width":100,"Height":21,"Type":"Text"}],"Alignment":"Left","Orientation":"Vertical","Type":"ViewGroup","Margin":{"Right":12}},{"Distribution":"Auto","Children":[{"CellId":"number","MaxLines":1,"studio_template_field_id":"E2","Text":"","TextColor":"#7d8a8c","Font":{"Size":13,"Weight":"regular"},"TextAlignment":"Right","Type":"Text"}],"Alignment":"Right","Orientation":"Vertical","Type":"ViewGroup"}],"Alignment":"Stretch","Orientation":"Horizontal","Type":"ViewGroup"},{"CellId":"title","MaxLines":2,"studio_template_field_id":"E3","Text":"","TextColor":"#293e40","Font":{"Size":18,"Weight":"regular"},"TextAlignment":"Left","Type":"Text","Margin":{"Top":9}},{"Distribution":"Auto","Children":[{"Distribution":"Auto","Children":[{"MaxLines":1,"studio_template_field_id":"E4","Text":"","TextColor":"#7d8a8c","Font":{"Size":13,"Weight":"regular"},"studio_template_is_label":true,"TextAlignment":"Left","Type":"Text","Margin":{"Right":8}},{"CornerRadius":11,"CellId":"","Scaling":"Fill","studio_template_field_id":"E5","Width":22,"Height":22,"Type":"Image","Margin":{"Right":6}},{"CellId":"","MaxLines":1,"studio_template_field_id":"E4","Text":"","TextColor":"#293e40","Font":{"Size":13,"Weight":"regular"},"TextAlignment":"Left","Type":"Text"}],"Alignment":"Center","Orientation":"Horizontal","Type":"ViewGroup","Margin":{"Top":9}},{"Distribution":"Auto","Children":[{"MaxLines":1,"studio_template_field_id":"E6","Text":"","TextColor":"#7d8a8c","Font":{"Size":13,"Weight":"regular"},"studio_template_is_label":true,"TextAlignment":"Left","Type":"Text","Margin":{"Right":8}},{"CellId":"","MaxLines":1,"studio_template_field_id":"E6","Text":"","TextColor":"#293e40","Font":{"Size":13,"Weight":"regular"},"TextAlignment":"Left","Type":"Text"}],"Alignment":"Center","Orientation":"Horizontal","Type":"ViewGroup","Margin":{"Top":7}}],"Alignment":"Left","Orientation":"Vertical","Type":"ViewGroup"}],"Alignment":"Stretch","Orientation":"Vertical","Type":"ViewGroup","Margin":{"Top":17,"Bottom":15}}</item_view_json>
+        <name>Loaner Request List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 12:21:37</sys_created_on>
+        <sys_id>41f67822287c10107f44eef09f3dbd3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request List Screen Item View</sys_name>
+        <sys_package display_value="LoanerReqTest" source="x_cdltd_loanerreqt">7f163022287c10107f44eef09f3dbdd8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LoanerReqTest">7f163022287c10107f44eef09f3dbdd8</sys_scope>
+        <sys_update_name>sys_sg_item_view_41f67822287c10107f44eef09f3dbd3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 12:21:37</sys_updated_on>
+        <table>x_cdltd_loanerreqt_loaner_request</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=41f67822287c10107f44eef09f3dbd3e"/>
+</record_update>
