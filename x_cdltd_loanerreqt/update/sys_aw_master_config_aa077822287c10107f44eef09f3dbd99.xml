@@ -6,7 +6,7 @@
         <compiled_page_registry display_value="LoanerReqTest">a2077822287c10107f44eef09f3dbd9a</compiled_page_registry>
         <description/>
         <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
-        <global_search_data display_value="LoanerReqTest Search Context Config">ea077822287c10107f44eef09f3dbd97</global_search_data>
+        <global_search_data display_value="">ea077822287c10107f44eef09f3dbd97</global_search_data>
         <name>LoanerReqTest</name>
         <navigation_type>breadcrumb</navigation_type>
         <notifications_enabled>true</notifications_enabled>

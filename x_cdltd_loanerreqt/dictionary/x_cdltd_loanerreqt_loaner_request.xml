@@ -2,6 +2,7 @@
     <element label="Loaner Request" max_length="40" name="x_cdltd_loanerreqt_loaner_request" text_index="true" type="collection">
         <element label="Author" max_length="40" name="author" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="other" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="title" type="string"/>
     </element>
 </database>
